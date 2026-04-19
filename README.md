@@ -244,6 +244,3 @@ Copyright (c) 2024 [odai faez]
 
 </div>
 
-
-print("- معلومات المساهمة")
-print("- الترخيص")
