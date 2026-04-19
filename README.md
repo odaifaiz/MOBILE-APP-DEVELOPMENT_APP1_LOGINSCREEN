@@ -82,8 +82,8 @@
 
 #### 1. استنساخ المستودع
 ```bash
-git clone https://github.com/username/login-form-flutter.git
-cd login-form-flutter
+git clone https://github.com/odaifaez/MOBILE-APP-DEVELOPMENT_APP1_LOGINSCREEN.git
+cd MOBILE-APP-DEVELOPMENT_APP1_LOGINSCREEN
 ```
 
 #### 2. تثبيت الاعتماديات
@@ -225,16 +225,7 @@ Copyright (c) 2024 [odai faez]
 
 يُمنح إذن، مجاناً، لأي شخص يحصل على نسخة من هذا البرنامج
 ... (نص الترخيص الكامل)
-```
 
----
-
-## 🙏 الشكر والتقدير
-
-- [Flutter Team](https://flutter.dev) - على الإطار الرائع
-- [المتبرعين](https://github.com/username/login-form-flutter/graphs/contributors) - على جهودهم القيمة
-
----
 
 <div align="center">
 
