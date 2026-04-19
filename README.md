@@ -244,24 +244,6 @@ Copyright (c) 2024 [odai faez]
 
 </div>
 
----
 
-<p align="center">
-  
-</p>
-"""
-
-# حفظ الملف
-with open('/mnt/agents/output/README.md', 'w', encoding='utf-8') as f:
-    f.write(readme_content)
-
-print("✅ تم إنشاء ملف README.md الاحترافي بنجاح!")
-print("\n📄 الملف يحتوي على:")
-print("- شعار وشارات (Badges)")
-print("- جدول محتويات")
-print("- لقطات شاشة")
-print("- تعليمات التثبيت")
-print("- هيكل المشروع")
-print("- أمثلة على الاستخدام")
 print("- معلومات المساهمة")
 print("- الترخيص")
